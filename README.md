@@ -1,2 +1,2 @@
 # V13 Ekip Supervisor botu full setup bot 
-# Bot bitince paylaşacağım
+# +50 Star +20 fork Bot bitince paylaşacağım
